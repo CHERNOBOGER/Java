@@ -1,4 +1,4 @@
-public class Main {
+public class Centerdeleter {
 
     public static char[][] chars = {
             {'a', 'b', 'c', 'd', 'e', 'f'},
